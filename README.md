@@ -26,7 +26,7 @@ Ensure you have the following dependencies installed:
 Execute the script using:
 
 ```bash
-python script.py
+python pyarrow_pyspark_example.py
 ```
 
 ## Expected Output
